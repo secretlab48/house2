@@ -1,0 +1,334 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HTML5 Blank v1.4.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2018-10-25 19:55:31+0000\n"
+"Last-Translator: root <1@i.ua>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:8
+#@ tpl
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:10
+#@ tpl
+msgid "Return home?"
+msgstr ""
+
+#: author.php:9
+#@ tpl
+msgid "Author Archives for "
+msgstr ""
+
+#: author.php:15
+#@ tpl
+msgid "About "
+msgstr ""
+
+#: author.php:42
+#: loop.php:22
+#: single.php:28
+#@ tpl
+msgid "Published by"
+msgstr ""
+
+#: author.php:43
+#: loop.php:23
+#: single.php:29
+#@ tpl
+msgid "Leave your thoughts"
+msgstr ""
+
+#: author.php:43
+#: loop.php:23
+#: single.php:29
+#@ tpl
+msgid "1 Comment"
+msgstr ""
+
+#: author.php:43
+#: loop.php:23
+#: single.php:29
+#@ tpl
+msgid "% Comments"
+msgstr ""
+
+#: author.php:62
+#: loop.php:39
+#: page.php:32
+#: single.php:54
+#@ tpl
+msgid "Sorry, nothing to display."
+msgstr ""
+
+#: comments.php:3
+#@ tpl
+msgid "Post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:18
+#@ tpl
+msgid "Comments are closed here."
+msgstr ""
+
+#: functions.php:277
+msgid "Settings"
+msgstr ""
+
+#: functions.php:457
+#@ tpl
+msgid "portfolio"
+msgstr ""
+
+#: functions.php:458
+#@ tpl
+msgid "Add portfolios"
+msgstr ""
+
+#: functions.php:459
+#@ tpl
+msgid "Adding portfolio"
+msgstr ""
+
+#: functions.php:460
+#@ tpl
+msgid "Edit portfolio"
+msgstr ""
+
+#: functions.php:461
+#@ tpl
+msgid "New portfolio"
+msgstr ""
+
+#: functions.php:462
+#@ tpl
+msgid "View portfolio"
+msgstr ""
+
+#: functions.php:463
+#@ tpl
+msgid "Search portfolio"
+msgstr ""
+
+#: functions.php:464
+#@ tpl
+msgid "Not found portfolios"
+msgstr ""
+
+#: functions.php:465
+#@ tpl
+msgid "Not found portfolios in trash"
+msgstr ""
+
+#: functions.php:489
+#@ tpl
+msgctxt "taxonomy general name"
+msgid "Portfolio Categories"
+msgstr ""
+
+#: functions.php:490
+#@ tpl
+msgctxt "taxonomy singular name"
+msgid "Protfolio"
+msgstr ""
+
+#: functions.php:491
+#@ tpl
+msgid "Search Protfolio Categories"
+msgstr ""
+
+#: functions.php:492
+#@ tpl
+msgid "All Protfolios"
+msgstr ""
+
+#: functions.php:493
+#@ tpl
+msgid "Parent Protfolio"
+msgstr ""
+
+#: functions.php:494
+#@ tpl
+msgid "Parent Protfolio:"
+msgstr ""
+
+#: functions.php:495
+#@ tpl
+msgid "Edit Protfolio"
+msgstr ""
+
+#: functions.php:496
+#@ tpl
+msgid "Update Protfolio"
+msgstr ""
+
+#: functions.php:497
+#@ tpl
+msgid "Add New Protfolio category"
+msgstr ""
+
+#: functions.php:498
+#@ tpl
+msgid "New Protfolio Name"
+msgstr ""
+
+#: functions.php:499
+#@ tpl
+msgid "Protfolio categories"
+msgstr ""
+
+#: inc/redux-config.php:39
+#: inc/redux-config.php:40
+#@ tpl
+msgid "Extended Settings"
+msgstr ""
+
+#: inc/redux-config.php:145
+#, php-format
+#@ tpl
+msgid "<p>Did you know that Redux sets a global variable for you? To access any of your saved options from within your code you can use your global variable: <strong>$%1$s</strong></p>"
+msgstr ""
+
+#: inc/redux-config.php:147
+#@ tpl
+msgid "<p>This text is displayed above the options panel. It isn't required, but more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: inc/redux-config.php:151
+#@ tpl
+msgid "<p>This text is displayed below the options panel. It isn't required, but more info is always better! The footer_text field accepts all HTML.</p>"
+msgstr ""
+
+#: inc/redux-config.php:166
+#: inc/redux-config.php:168
+#: inc/redux-config.php:173
+#@ tpl
+msgid "General Section"
+msgstr ""
+
+#: inc/redux-config.php:175
+#@ tpl
+msgid "General Site Settings"
+msgstr ""
+
+#: inc/redux-config.php:182
+#@ tpl
+msgid "Choose page layout"
+msgstr ""
+
+#: inc/redux-config.php:199
+#@ tpl
+msgid "Choose sidebar option"
+msgstr ""
+
+#: inc/redux-config.php:226
+#@ tpl
+msgid "Header Section"
+msgstr ""
+
+#: inc/redux-config.php:233
+#@ tpl
+msgid "Header Settings"
+msgstr ""
+
+#: inc/redux-config.php:242
+#@ tpl
+msgid "Header Logo"
+msgstr ""
+
+#: inc/redux-config.php:243
+#@ tpl
+msgid "Set Logo"
+msgstr ""
+
+#: inc/redux-config.php:250
+#@ tpl
+msgid "Header Type"
+msgstr ""
+
+#: inc/redux-config.php:251
+#@ tpl
+msgid "Select Header Type"
+msgstr ""
+
+#: inc/redux-config.php:262
+#@ tpl
+msgid "Header Background"
+msgstr ""
+
+#: inc/redux-config.php:263
+#@ tpl
+msgid "Basic media uploader with disabled URL input field."
+msgstr ""
+
+#: inc/redux-config.php:264
+#@ tpl
+msgid "Upload any media using the WordPress native uploader"
+msgstr ""
+
+#: index.php:7
+#@ tpl
+msgid "Latest Posts"
+msgstr ""
+
+#: search.php:7
+#, php-format
+#@ tpl
+msgid "%s Search Results for "
+msgstr ""
+
+#: searchform.php:3
+#@ tpl
+msgid "To search, type and hit enter."
+msgstr ""
+
+#: searchform.php:4
+#@ tpl
+msgid "Search"
+msgstr ""
+
+#: single.php:34
+#@ tpl
+msgid "Tags: "
+msgstr ""
+
+#: single.php:36
+#@ tpl
+msgid "Categorised in: "
+msgstr ""
+
+#: single.php:38
+#@ tpl
+msgid "This post was written by "
+msgstr ""
+
+#: tag.php:7
+#@ tpl
+msgid "Tag Archive: "
+msgstr ""
+
+#: archive.php:7
+#@ tpl
+msgid "Archives"
+msgstr ""
+
+#: category.php:7
+#@ tpl
+msgid "Categories for "
+msgstr ""
+

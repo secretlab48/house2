@@ -1,0 +1,22 @@
+.tabs-box {}
+.tabs-nav {}
+.tab-item { display : inline-block; }
+.tab-item:hover { cursor : pointer; }
+.tab-item .tab-a { }
+
+.tab-contents { }
+.tab-content-item { display : none; }
+.tab-content-item.active { display : block; }
+.tab-item-box { }
+
+.tab-select-box {}
+.tab-select {}
+.tab-select-values { }
+.tab-select-item { display : none; }
+.tab-select-item.active { display : block; }
+
+
+.img-control { display : inline-block; }
+.img_prv { width : 150px; height : 150px; background-size : cover; }
+.tab-select-item { display : none; }
+.tab-select-item.active { display : block; }
